@@ -1,6 +1,6 @@
 # Elementary Wallpapers GNOME Integration
 
-When installing the `elementary-wallpapers` package in Arch Linux the wallpapers will not show up in the `gnome-control-center` program. Run this script to install the configuration file that make them show up.
+When installing the `elementary-wallpapers` package in Arch Linux the wallpapers will not show up in the `gnome-control-center` program. Run this script to install the configuration file that makes them show up.
 
 ## Installing
 
