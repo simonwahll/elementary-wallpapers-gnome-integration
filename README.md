@@ -4,6 +4,14 @@ When installing the `elementary-wallpapers` package in Arch Linux the wallpapers
 
 ## Installing
 
+### AUR
+
+```sh
+yay -S elementary-wallpapers-gnome-integration
+```
+
+### Manually
+
 1. Clone this repository.
 2. Run the `install.sh` script with `sudo`.
 ```sh
